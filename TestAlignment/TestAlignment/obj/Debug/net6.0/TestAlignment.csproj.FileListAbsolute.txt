@@ -1,0 +1,15 @@
+D:\repos\testDir\TestAlignment\TestAlignment\bin\Debug\net6.0\TestAlignment.exe
+D:\repos\testDir\TestAlignment\TestAlignment\bin\Debug\net6.0\TestAlignment.deps.json
+D:\repos\testDir\TestAlignment\TestAlignment\bin\Debug\net6.0\TestAlignment.runtimeconfig.json
+D:\repos\testDir\TestAlignment\TestAlignment\bin\Debug\net6.0\TestAlignment.dll
+D:\repos\testDir\TestAlignment\TestAlignment\bin\Debug\net6.0\TestAlignment.pdb
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.csproj.AssemblyReference.cache
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.AssemblyInfoInputs.cache
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.AssemblyInfo.cs
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.csproj.CoreCompileInputs.cache
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.dll
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\refint\TestAlignment.dll
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.pdb
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\TestAlignment.genruntimeconfig.cache
+D:\repos\testDir\TestAlignment\TestAlignment\obj\Debug\net6.0\ref\TestAlignment.dll
